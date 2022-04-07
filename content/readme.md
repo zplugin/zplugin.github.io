@@ -1,0 +1,5 @@
+![LOGO_GIT](https://github.com/z-shell/.github/raw/main/profile/img/z_git.png)
+![Projects](https://raw.githubusercontent.com/z-shell/.github/main/metrics/metrics.svg#center)
+![Projects](https://raw.githubusercontent.com/z-shell/.github/main/metrics/plugin/projects/projects.svg#center)
+![Followup](https://raw.githubusercontent.com/z-shell/.github/main/metrics/plugin/followup/followup.svg#center)
+![Discussions](https://raw.githubusercontent.com/z-shell/.github/main/metrics/plugin/tweets/tweets.svg#center)
