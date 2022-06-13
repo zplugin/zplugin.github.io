@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
-if [ -n "$(git status -s)" ]; then
+if [ -n "$(git status -s || true)" ]; then
 	echo "The working directory is dirty. Please commit any pending changes."
 	exit 1
 fi
