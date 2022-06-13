@@ -20,9 +20,9 @@ email = "zplugin@zshell.dev"
 keywords = "Zsh Plugins"
 rss = false
 lastmod = true
-userStatusEmoji = ""
+userStatusEmoji = "🧙‍♂️"
 favicon = "images/avatar.png"
-location = "United Kingdom"
+location = ""
 enableGitalk = false
 
 [params.gitalk]
