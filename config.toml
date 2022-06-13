@@ -1,14 +1,14 @@
-baseURL = "https://github.zshell.dev/"
+baseURL = "https://zplugin.github.io/"
 languageCode = "en"
-title = "❮ ZI ❯"
+title = "Zsh Plugins | ❮ ZI ❯"
 theme = "github-style"
-googleAnalytics = "G-MT10GVL59X"
+googleAnalytics = ""
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
 author = "Z-Shell Community"
-description = "Open-source society passionate about Zsh, privacy-respecting, and decentralized internet."
+description = "Cummunity Zsh Plugins."
 #  github = "z-shell"
 #  facebook = ""
 #twitter = "zshell_zi"
@@ -41,14 +41,6 @@ enableGitalk = false
  title = "Z-Shell"
  href = "https://github.com/z-shell"
 icon = "https://github.com/z-shell.png"
-[[params.links]]
-title = "digital-clouds"
-href = "https://github,com/digital-clouds"
-icon = "https://github.com/digital-clouds.png"
-[[params.links]]
-title = "ss-o"
-href = "https://github,com/ss-o"
-icon = "https://github.com/ss-o.png"
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
