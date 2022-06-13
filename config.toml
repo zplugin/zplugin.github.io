@@ -8,11 +8,11 @@ pygmentsUseClasses = true
 
 [params]
 author = "Z-Shell Community"
-description = "Cummunity Zsh Plugins."
+description = "Zsh Plugins"
 #  github = "z-shell"
 #  facebook = ""
 #twitter = "zshell_zi"
-#  linkedin = "ss-o"
+#  linkedin = ""
 #  instagram = ""
 #  tumblr = ""
 email = "zplugin@zshell.dev"
