@@ -38,8 +38,8 @@ enableGitalk = false
 #createIssueManually = false
 #distractionFreeMode = false
 [[params.links]]
- title = "Z-Shell"
- href = "https://github.com/z-shell"
+title = "Z-Shell"
+href = "https://github.com/z-shell"
 icon = "https://github.com/z-shell.png"
 
 [frontmatter]

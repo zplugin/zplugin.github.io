@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: true  
+          submodules: true
           fetch-depth: 0
       - name: Trunk it
         run: ./trunk check --ci-progress
