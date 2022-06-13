@@ -1,5 +1,5 @@
 ---
-name: 'GH Pages'
+name: '🚀 GH Pages'
 on:
   push:
     branches: [main]
